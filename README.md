@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kingsley sylvanus
 - 👀 I’m interested in coding, sport etc
 - 🌱 I’m currently learning ...frontend development
-- 💞️ I’m looking to collaborate on junior devs and senior devs
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me on my twitter kingsleysylvan8
 
 <!---
